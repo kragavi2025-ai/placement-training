@@ -1,6 +1,5 @@
 public class CheckPalindromeNumber {
     public static void main(String[] args) {
-        // Input number without Scanner or Command Line arguments
         int number = 121;
         int originalNumber = number;
         int reversed = 0;

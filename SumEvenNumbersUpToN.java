@@ -1,6 +1,5 @@
 public class SumEvenNumbersUpToN {
     public static void main(String[] args) {
-        // Input N without Scanner or Command Line arguments
         int n = 10;
         int sum = 0;
         

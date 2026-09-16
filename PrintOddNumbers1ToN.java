@@ -1,6 +1,5 @@
 public class PrintOddNumbers1ToN {
     public static void main(String[] args) {
-        // Input N without Scanner or Command Line arguments
         int n = 20;
         
         System.out.println("Printing Odd Numbers from 1 to " + n + ":");

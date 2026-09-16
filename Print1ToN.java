@@ -1,6 +1,5 @@
 public class Print1ToN {
     public static void main(String[] args) {
-        // Input N without Scanner or Command Line arguments
         int n = 10;
         
         System.out.println("Printing 1 to " + n + ":");

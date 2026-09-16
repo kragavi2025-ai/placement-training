@@ -1,6 +1,5 @@
 public class CheckNeonNumber {
     public static void main(String[] args) {
-        // Input number without Scanner or Command Line arguments
         int number = 9;
         int square = number * number;
         int sumOfDigits = 0;

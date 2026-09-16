@@ -1,6 +1,5 @@
 public class CheckContainsZero {
     public static void main(String[] args) {
-        // Input number without Scanner or Command Line arguments
         int number = 1052;
         boolean containsZero = false;
         int temp = Math.abs(number);

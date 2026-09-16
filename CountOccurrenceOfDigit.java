@@ -1,6 +1,5 @@
 public class CountOccurrenceOfDigit {
     public static void main(String[] args) {
-        // Input number and digit to find without Scanner or Command Line arguments
         int number = 1223422;
         int targetDigit = 2;
         int count = 0;

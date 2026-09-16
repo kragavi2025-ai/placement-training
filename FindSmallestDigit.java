@@ -1,6 +1,5 @@
 public class FindSmallestDigit {
     public static void main(String[] args) {
-        // Input number without Scanner or Command Line arguments
         int number = 38291;
         int minDigit = 9;
         int temp = Math.abs(number);
