@@ -1,0 +1,15 @@
+public class CountMultiplesOf3 {
+    public static void main(String[] args) {
+        // Input N without Scanner or Command Line arguments
+        int n = 20;
+        int count = 0;
+        
+        for (int i = 1; i <= n; i++) {
+            if (i % 3 == 0) {
+                count++;
+            }
+        }
+        
+        System.out.println("Count of multiples of 3 from 1 to " + n + " is: " + count);
+    }
+}
